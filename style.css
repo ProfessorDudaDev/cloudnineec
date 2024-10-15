@@ -141,7 +141,7 @@ section .chamada-principal-imagem{
     font-size: 3em;
     text-align: center;
     align-self: start;
-    color: rgb(59, 117, 2);
+    color: darkblue;
 }
 
 .missao p{
@@ -167,7 +167,7 @@ section .chamada-principal-imagem{
     font-size: 3em;
     text-align: center;
     align-self: start;
-    color: rgb(59, 117, 2);
+     color: darkblue;
 }
 
 .container-turmas{
